@@ -54,5 +54,5 @@ Kullanılacak Bağımlılıklar
 Bu projede herhangi bir dış kütüphaneye ihtiyaç yoktur. C dilindeki <time.h> kütüphanesi ile epoch zaman hesaplamaları yapılabilir.
 
 Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
+
 
