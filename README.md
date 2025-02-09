@@ -53,6 +53,6 @@ Epoch zamanı, tarih ve saat bilgilerini basitleştirmek, zaman dilimlerinden ba
 Kullanılacak Bağımlılıklar
 Bu projede herhangi bir dış kütüphaneye ihtiyaç yoktur. C dilindeki <time.h> kütüphanesi ile epoch zaman hesaplamaları yapılabilir.
 
-Lisans
+
 
 
